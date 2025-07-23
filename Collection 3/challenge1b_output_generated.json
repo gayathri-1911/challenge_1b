@@ -1,0 +1,107 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Breakfast Ideas.pdf",
+            "Dinner Ideas - Mains_1.pdf",
+            "Dinner Ideas - Mains_2.pdf",
+            "Dinner Ideas - Mains_3.pdf",
+            "Dinner Ideas - Sides_1.pdf",
+            "Dinner Ideas - Sides_2.pdf",
+            "Dinner Ideas - Sides_3.pdf",
+            "Dinner Ideas - Sides_4.pdf",
+            "Lunch Ideas.pdf"
+        ],
+        "persona": "Food Contractor",
+        "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+        "processing_timestamp": "2025-07-23T13:17:42.920370"
+    },
+    "extracted_sections": [
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "• Instructions :",
+            "importance_rank": 1,
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "section_title": "• Ingredients :",
+            "importance_rank": 2,
+            "page_number": 4
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 3,
+            "page_number": 1
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 4,
+            "page_number": 5
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Instructions:",
+            "importance_rank": 5,
+            "page_number": 13
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Turkey Meatballs",
+            "importance_rank": 6,
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Mains_2.pdf",
+            "section_title": "Ingredients:",
+            "importance_rank": 7,
+            "page_number": 3
+        },
+        {
+            "document": "Dinner Ideas - Sides_2.pdf",
+            "section_title": "• Ingredients :",
+            "importance_rank": 8,
+            "page_number": 3
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Ingredients:",
+            "importance_rank": 9,
+            "page_number": 1
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "section_title": "Turkey and Avocado Sandwich",
+            "importance_rank": 10,
+            "page_number": 1
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Oil for frying  \n• Instructions : \no Mix grated cassava with coconut milk and salt. o Form mixture into flat cakes. o Fry in  hot oil until golden.",
+            "page_number": 4
+        },
+        {
+            "document": "Dinner Ideas - Sides_1.pdf",
+            "refined_text": "o Oil for frying  \n• Instructions : \no Mix grated cassava with coconut milk and salt. o Form mixture into flat cakes. o Fry in  hot oil until golden.",
+            "page_number": 4
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "Turkey and Avocado Sandwich  \nIngredients:  \n• 2 slices whole grain bread  \n• 4 slices turkey breast  \n• 1/2 avocado, sliced  \n• 1/2 cup spinach leaves  \n• 1 tablespoon mustard or mayo \nInstructions:  \n• Spread mustard or mayo on one slice of bread. • Layer the turkey, avocado, and spinach on top. Chicken Caesar Wrap  \nIngredients:  \n• 1 whole wheat tortilla  \n• 1 cup cooked chicken breast, sliced  \n• 1 cup romaine lettuce, chopped  \n• 2 tablespoons Caesar dressing  \n• 2 tablespoons grated Parmesan cheese  \n• Optional: croutons for extra crunch  \nInstructions:  \n• Lay the tortilla flat and spread the Caesar dressing evenly.",
+            "page_number": 1
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "Turkey and Cheese Roll -Ups \nIngredients:  \n• 4 slices turkey  breast  \n• 4 slices cheese (such as cheddar or Swiss)  \n• 1/2 cup baby spinach  \n• 1/4 cup hummus  \nInstructions:  \n• Lay a slice of turkey flat and spread with hummus. • 1 cup cooked chicken breast, diced  \n• 1/2 avocado, diced  \n• 1/4 cup cherry tomatoes, halved  \n• 1/4 cup red onion, finely chopped  \n• 2 tablespoons olive oil  \n• 1 tablespoon lemon juice  \n• Salt and pepper to taste  \nInstructions:  \n• In a bowl, combine the chicken, avocado, tomatoes, and red onion. • Drizzle with olive oil and lemon juice.",
+            "page_number": 5
+        },
+        {
+            "document": "Lunch Ideas.pdf",
+            "refined_text": "Turkey and Apple Sandwic h \nIngredients:  \n• 2 slices whole grain bread  \n• 4 slices turkey breast  \n• 1/2 apple, thinly sliced  \n• 1/4 cup baby spinach  \n• 1 tablespoon mustard or mayo \nInstructions:  \n• Spread mustard or mayo on one slice of bread. • Layer the turkey, apple slices, and spinach on top. • 1/4 cup spinach, chopped \n• 1/4 cup shredded carrots  \n• 1 tablespoon tahini  \n• 1 tablespoon lemon juice  \n• Salt and pepper to taste  \nInstructions:  \n• In a bowl, combine the mashed chickpeas, spinach, carrots, tahini, and lemon juice.",
+            "page_number": 13
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "input_documents": [
+            "Learn Acrobat - Create and Convert_1.pdf",
+            "Learn Acrobat - Create and Convert_2.pdf",
+            "Learn Acrobat - Edit_1.pdf",
+            "Learn Acrobat - Edit_2.pdf",
+            "Learn Acrobat - Export_1.pdf",
+            "Learn Acrobat - Export_2.pdf",
+            "Learn Acrobat - Fill and Sign.pdf",
+            "Learn Acrobat - Generative AI_1.pdf",
+            "Learn Acrobat - Generative AI_2.pdf",
+            "Learn Acrobat - Request e-signatures_1.pdf",
+            "Learn Acrobat - Request e-signatures_2.pdf",
+            "Learn Acrobat - Share_1.pdf",
+            "Learn Acrobat - Share_2.pdf",
+            "Test Your Acrobat Exporting Skills.pdf",
+            "The Ultimate PDF Sharing Checklist.pdf"
+        ],
+        "persona": "HR professional",
+        "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+        "processing_timestamp": "2025-07-23T13:17:37.100824"
+    },
+    "extracted_sections": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "section_title": "Certify a PDF",
+            "importance_rank": 1,
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "section_title": "Certifying a PDF means approving its contents and specifying what changes are allowed for",
+            "importance_rank": 2,
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "section_title": "View previous versions of a digitally signed document",
+            "importance_rank": 3,
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "section_title": "Whenever a certificate is used to sign a document, a signed version of the PDF is created and",
+            "importance_rank": 4,
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "This process can be useful for creating a one -page PDF. For longer, more complex, or heavily",
+            "importance_rank": 5,
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "The sender has access to the agreements through  their Home or Documents tab or through",
+            "importance_rank": 6,
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "section_title": "Create a blank PDF",
+            "importance_rank": 7,
+            "page_number": 10
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "section_title": "You can export a PDF to PostScript for printing and prepress applications. The PostScript file",
+            "importance_rank": 8,
+            "page_number": 19
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_1.pdf",
+            "section_title": "Signatures made with the  Certify  or Digitally  sign options comply with data protection",
+            "importance_rank": 9,
+            "page_number": 23
+        },
+        {
+            "document": "Learn Acrobat - Export_1.pdf",
+            "section_title": "If you don ’t have access to the source files that created an  Adobe PDF , you can still copy",
+            "importance_rank": 10,
+            "page_number": 1
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "Note:  You can right -click a signature field in the  Signatures  panel to do most signature-\nrelated tasks, including adding, clearing, and validating signatures. In some cases, however, \nthe signature field becomes locked after you sign it. Sign in preview mode for document integrity  \nWhen document integrity is critical for your signature workflow, you can enable 'View \ndocuments in Preview mode', and  then sign the document.",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "Note:  You can right -click a signature field in the  Signatures  panel to do most signature-\nrelated tasks, including adding, clearing, and validating signatures. In some cases, however, \nthe signature field becomes locked after you sign it. Sign in preview mode for document integrity  \nWhen document integrity is critical for your signature workflow, you can enable 'View \ndocuments in Preview mode', and  then sign the document.",
+            "page_number": 5
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "Trust a signer’s certificate \nTo trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity \nManager. Also, its trust level must be set manually. Validate  all digital  signatures \n1.",
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Request e-signatures_2.pdf",
+            "refined_text": "Trust a signer’s certificate \nTo trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity \nManager. Also, its trust level must be set manually. Validate  all digital  signatures \n1.",
+            "page_number": 7
+        },
+        {
+            "document": "Learn Acrobat - Create and Convert_1.pdf",
+            "refined_text": "Create a blank PDF  \nYou can create a blank PDF, rather than beginning with a file, a clipboard image, or scanning. This process can be useful for creating a one -page PDF. For longer, more complex, or heavily \nformatted documents, it’s better to create the source document in an application that offers \nmore layout and formatting options, such as Adobe InDesign o r Microsoft  Word.",
+            "page_number": 10
+        }
+    ]
+}
